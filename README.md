@@ -1,3 +1,3 @@
 # Car_Game
-Python Program-1
+Python Mini game
 This program is made to clear the concepts of if-elif-else statement in Python
